@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.onegtmlab.dev.ico",
     "slug": "one-gtm-lab-blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "16.51%",
+    "uptimeDay": "16.51%",
+    "uptimeWeek": "16.51%",
+    "uptimeMonth": "16.51%",
+    "uptimeYear": "16.51%",
     "time": 154,
     "timeDay": 154,
     "timeWeek": 154,
     "timeMonth": 154,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-23": 1
+    }
   }
 ]
