@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 168,
+    "timeDay": 111,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.onegtmlab.dev.ico",
     "slug": "one-gtm-lab-blog",
     "status": "down",
-    "uptime": "16.51%",
-    "uptimeDay": "16.51%",
-    "uptimeWeek": "16.51%",
-    "uptimeMonth": "16.51%",
-    "uptimeYear": "16.51%",
-    "time": 154,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 110,
+    "timeDay": 66,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2026-11-23": 1
+      "2026-11-24": 538,
+      "2026-11-23": 1380
     }
   }
 ]
