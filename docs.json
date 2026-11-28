@@ -1,0 +1,10 @@
+{
+  "name": "\ud83d\udcc8 Live Status(https://jaizendra-netizen.github.io/onegtmlab-",
+  "description": "Public uptime status page for www.onegtmlab.dev (Upptime)",
+  "sidebar": [
+    {
+      "title": "Overview",
+      "href": "/"
+    }
+  ]
+}
